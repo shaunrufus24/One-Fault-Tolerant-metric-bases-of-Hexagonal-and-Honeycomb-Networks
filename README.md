@@ -1,1 +1,1 @@
-# One-Fault-Tolerant-metric-dimension-of-Hexagonal-and-Honeycomb-Networks
+# One-Fault-Tolerant-metric-bases-of-Hexagonal-and-Honeycomb-Networks
